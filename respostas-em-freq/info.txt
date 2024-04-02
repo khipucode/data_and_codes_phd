@@ -1,0 +1,9 @@
+### Descrição da Pasta do GitHub
+
+Esta pasta do GitHub é dedicada ao armazenamento e compartilhamento de dados e gráficos resultantes das medições das respostas em frequência S21 (em dB) dos dispositivos que serão empregados nos experimentos relativos ao projeto "Geração de Pentes Ópticos de Frequência usando Moduladores Eletro-ópticos Cascateados". Abrangendo um espectro de frequência de 0 a 25 GHz, os materiais aqui disponibilizados oferecem uma visão detalhada do comportamento dos dispositivos em teste, com um foco particular na atenuação efetiva quando operados na frequência de 18 GHz.
+
+Os usuários e colaboradores do projeto encontrarão nesta pasta:
+- **Dados Brutos:** Conjuntos de dados completos capturando as respostas em frequência S21 dos dispositivos.
+- **Gráficos :** Visualizações que destacam as características de atenuação dos dispositivos em todo o intervalo de frequência estudado.
+
+Este repositório serve como uma base de dados para pesquisadores e engenheiros que possam usar esses dispositivos.
